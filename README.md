@@ -5,18 +5,18 @@ This project focuses on clean UI design, modern styling, and smooth animations, 
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 🔗 https://proj1-5hz7.vercel.app
 
 ---
 
-## 📌 Overview
+## Overview
 This website showcases a pizza menu with multiple items displayed in a card-based layout.  
 It features a dark-themed design, animated hero section, glassmorphism effects, and star ratings to enhance the overall user experience.
 
 ---
 
-## ✨ Features
+## Features
 - Dark-themed modern UI  
 - Glassmorphism hero section with animated entrance  
 - Multiple pizza menu items  
@@ -26,7 +26,7 @@ It features a dark-themed design, animated hero section, glassmorphism effects, 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3  
 
@@ -34,12 +34,12 @@ It features a dark-themed design, animated hero section, glassmorphism effects, 
 
 ---
 
-## 🚀 Deployment
+## Deployment
 The website is deployed using **Vercel** and is publicly accessible through the live demo link above.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 This project was created to:
 - Practice HTML & CSS fundamentals  
 - Improve UI design skills  
@@ -49,6 +49,6 @@ This project was created to:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Sowmiya R P**  
 Aspiring CSE Engineer | Exploring AI & Data Science | Tech Learner
